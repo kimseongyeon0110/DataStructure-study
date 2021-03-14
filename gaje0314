@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(int argc, const char* argv[]) {
-    // insert code here...
+   
     int row, column;
     int i, j, k;
     printf("이차원 배열 동적 코드 할당 작성\n");
